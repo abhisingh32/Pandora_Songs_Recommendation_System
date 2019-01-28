@@ -1,4 +1,4 @@
-# Recommendation_System
+# Pandora_Songs_Recommendation_System
 
 Data Pre-processing:
 I have used PANDAS to process the data in suitable form. It includes loading the data from multiple files and then joining/ manipulating as per the requirement at each step of the algorithm. e.g. pandas library is used to combine User and Track column separated by hyphen.
